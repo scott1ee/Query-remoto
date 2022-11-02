@@ -1,5 +1,8 @@
 ## Query-remoto
 
 ### Integrantes
-    [Tadeo Mendoza](https://github.com/TadeoMendoza)
-    [Franco Herrera](https://github.com/scott1ee)
+    [Tadeo Mendoza][enlace1]
+    [Franco Herrera][enlace2]
+
+    [enlace1]: https://github.com/TadeoMendoza
+    [enlace2]: https://github.com/scott1ee
